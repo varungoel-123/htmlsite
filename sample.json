@@ -1,0 +1,31 @@
+{
+  "name": "My Sample JSON",
+  "version": "1.0.0",
+  "description": "This is a sample JSON file",
+  "items": [
+    {
+      "id": 1,
+      "title": "Item 1",
+      "description": "First sample item",
+      "active": true
+    },
+    {
+      "id": 2,
+      "title": "Item 2",
+      "description": "Second sample item",
+      "active": false
+    },
+    {
+      "id": 3,
+      "title": "Item 3",
+      "description": "Third sample item",
+      "active": true
+    }
+  ],
+  "settings": {
+    "theme": "dark",
+    "language": "en",
+    "notifications": true
+  },
+  "createdAt": "2025-05-24"
+}
